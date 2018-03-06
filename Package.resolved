@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Bolt",
+        "repositoryURL": "https://github.com/Neo4j-Swift/Bolt-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "35d37a5b6c2203588d0674343fd99e2270ad5ace",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "PackStream",
+        "repositoryURL": "https://github.com/Neo4j-Swift/PackStream-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "1bba9b29aaa5c0aef8a2e13fa9797497804d34c1",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "Result",
+        "repositoryURL": "https://github.com/antitypical/Result.git",
+        "state": {
+          "branch": null,
+          "revision": "7477584259bfce2560a19e06ad9f71db441fff11",
+          "version": "3.2.4"
+        }
+      },
+      {
+        "package": "SSLService",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSSLService.git",
+        "state": {
+          "branch": null,
+          "revision": "3a87b64a97fb8e923f52f2a68e31e7bd4fc46b42",
+          "version": "0.12.84"
+        }
+      },
+      {
+        "package": "Socket",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "26c8f4e4e3000421a0c97aaf0c7b5e9aa5475222",
+          "version": "0.12.94"
+        }
+      },
+      {
+        "package": "Theo",
+        "repositoryURL": "https://github.com/Neo4j-Swift/Neo4j-Swift.git",
+        "state": {
+          "branch": null,
+          "revision": "ea158b9304656b5cacea8fdd408b467b0f9428c5",
+          "version": "4.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
